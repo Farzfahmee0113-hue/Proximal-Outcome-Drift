@@ -1,0 +1,41 @@
+﻿indicator,topic,n_early,early_%,recent_%,change,enough_early_papers
+engagement_confidence,3D anatomy,71,15.5,26.6,11.1,True
+engagement_confidence,AI integration,1,0.0,33.3,33.3,False
+engagement_confidence,Clinical sim design,70,24.3,39.9,15.6,True
+engagement_confidence,Dental VR & haptics,33,9.1,33.6,24.5,True
+engagement_confidence,Evidence syntheses,29,10.3,40.5,30.2,True
+engagement_confidence,Instruction & outcomes,64,20.3,48.9,28.6,True
+engagement_confidence,Metaverse,8,25.0,38.6,13.6,False
+engagement_confidence,Nursing simulation,32,18.8,50.9,32.1,True
+engagement_confidence,Surgical education,81,3.7,17.7,14.0,True
+engagement_confidence,Task training & feedback,286,8.0,22.8,14.8,True
+self_report,3D anatomy,71,18.3,44.4,26.1,True
+self_report,AI integration,1,0.0,25.4,25.4,False
+self_report,Clinical sim design,70,31.4,46.5,15.1,True
+self_report,Dental VR & haptics,33,39.4,65.8,26.4,True
+self_report,Evidence syntheses,29,34.5,34.0,-0.5,True
+self_report,Instruction & outcomes,64,54.7,79.3,24.6,True
+self_report,Metaverse,8,0.0,40.9,40.9,False
+self_report,Nursing simulation,32,21.9,57.0,35.1,True
+self_report,Surgical education,81,22.2,32.5,10.3,True
+self_report,Task training & feedback,286,31.1,42.0,10.9,True
+objective_measure,3D anatomy,71,12.7,25.0,12.3,True
+objective_measure,AI integration,1,100.0,24.9,-75.1,False
+objective_measure,Clinical sim design,70,8.6,14.6,6.0,True
+objective_measure,Dental VR & haptics,33,18.2,19.9,1.7,True
+objective_measure,Evidence syntheses,29,3.4,12.6,9.2,True
+objective_measure,Instruction & outcomes,64,4.7,10.1,5.4,True
+objective_measure,Metaverse,8,12.5,7.6,-4.9,False
+objective_measure,Nursing simulation,32,6.2,5.8,-0.4,True
+objective_measure,Surgical education,81,21.0,31.6,10.6,True
+objective_measure,Task training & feedback,286,45.8,44.3,-1.5,True
+transfer,3D anatomy,71,14.1,5.6,-8.5,True
+transfer,AI integration,1,0.0,7.3,7.3,False
+transfer,Clinical sim design,70,2.9,5.1,2.2,True
+transfer,Dental VR & haptics,33,15.2,8.9,-6.3,True
+transfer,Evidence syntheses,29,13.8,8.8,-5.0,True
+transfer,Instruction & outcomes,64,6.2,5.8,-0.4,True
+transfer,Metaverse,8,0.0,0.8,0.8,False
+transfer,Nursing simulation,32,3.1,4.5,1.4,True
+transfer,Surgical education,81,18.5,19.9,1.4,True
+transfer,Task training & feedback,286,29.7,16.0,-13.7,True
