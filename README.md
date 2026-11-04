@@ -8,8 +8,7 @@ success, and builds a theory from the resulting patterns: **proximal outcome dri
 
 **Author:** Farzana Fahmee, University of Arkansas (ffahmee@uark.edu)
 
-> This repository is private because the data files contain article abstracts, which are copyrighted by
-> their publishers. Please do not redistribute the data files.
+>The data files contain bibliographic records (titles, abstracts and metadata) exported from the University of Arkansas OneSearch library database on August 31, 2026.
 
 ---
 
